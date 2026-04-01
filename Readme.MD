@@ -2,6 +2,7 @@
 
 End-to-end data engineering pipeline built on PySpark and Hive that processes 2.26 million loan records and assigns each borrower a credit risk score.
 
+The dataset can be downloaded at https://www.kaggle.com/datasets/panchammahto/lendingclub-dataset-full-2007-to-2018.
 The dataset covers LendingClub loans from 2007 to 2018. The goal was to go beyond simple EDA and actually build something useful — a scoring model that weights payment history, default behaviour, and financial health to produce a final loan grade (A through F).
 
 ---
